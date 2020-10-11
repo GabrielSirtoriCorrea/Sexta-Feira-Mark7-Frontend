@@ -1,0 +1,12 @@
+{
+    "FridayConfigs": {
+        "ID": "Sexta-Feira",
+        "ServerHost": "sexta-feira-mark6.herokuapp.com",
+        "Port": 80
+    },
+    "ServerConfigs": {
+        "ID": "Server",
+        "Host": "192.168.0.4",
+        "Port": 5000
+    }
+}
